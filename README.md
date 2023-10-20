@@ -23,7 +23,7 @@ BONUS: watch our video, answer the riddle, and win awesome swag!<br /><br />
 
 <h1 align="center">🎉 We're participating in Hacktoberfest 2023! 🎉</h1>
 
-Interested in participating in Hacktoberfest? We extend a warm invitation! You also get the opportunity to win some swag 😁
+Interested in participating in Hacktoberfest? We extend a warm invitation! You also have the opportunity to win some swag  😁
 
 > ⭐️ If you're new to Hacktoberfest, you can learn more and register to participate [here](https://hacktoberfest.com/participation/). Registration is from **September 26th - October 31st**.
 
@@ -154,7 +154,7 @@ Using the Novu API and admin panel, you can easily add a real-time notification 
 <div align="center">
 <img width="762" alt="notification-center-912bb96e009fb3a69bafec23bcde00b0" src="https://user-images.githubusercontent.com/80174214/193887395-f1c95042-b4e6-480e-a89c-a78aa247fa90.gif">
 
-Read more about how to add a notification center to your app with the Novu API [here](https://docs.novu.co/notification-center/getting-started)
+Read more about how to add a notification center to your app using the Novu API here [here](https://docs.novu.co/notification-center/getting-started)
 
 <p align="center">
   <a href="https://docs.novu.co/sdks/react">React Component</a>
@@ -254,7 +254,7 @@ Novu is licensed under the MIT License - see the [LICENSE](https://github.com/no
 
 ## 💪 Thanks To All Contributors
 
-Thanks a lot for spending your time helping Novu grow. Keep rocking 🥂
+Thank you for spending your time helping Novu grow. Keep rocking! 🥂
 
 <a href="https://novu.co/contributors">
   <img src="https://contributors-img.web.app/image?repo=novuhq/novu" alt="Contributors"/>
